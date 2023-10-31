@@ -10,3 +10,9 @@ The game can be played through a browser at this address : https://play.unity.co
 It contains some bugs and really needs some improvements to become a real game but the aim wasn't to create the new skyrim but to improve myself on Unity, and it has achieved its purpose.
 
 In conclusion I learned a lot with this mini-project that took me like one week to do. I tackled game managing, UX design, data persistency, animations, particles effect and a lot more.
+
+![Screenshot](./BTSScreenshots/HomeMenu.png)
+![Screenshot](./BTSScreenshots/GamePlay.png)
+![Screenshot](./BTSScreenshots/GamePlay2.png)
+![Screenshot](./BTSScreenshots/Menu.png)
+![Screenshot](./BTSScreenshots/Dead.png)
